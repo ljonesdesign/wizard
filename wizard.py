@@ -1,7 +1,7 @@
 # Built in python print function only (by the way, this is a comment. It will not be processed.)
 print("We are off to see the Wizard!")
 
-# Print function with variable
+# Print with variable
 msg = "We are off to see the Wizard, the Wonderful Wizard of Oz!"
 print(msg)
 
